@@ -6,8 +6,6 @@ h1{
 img.plantilla{
     width: 700px;
     height: 500px;
-    position: relative;
-    left: 32.5%;
 }
 img.plant{
     width: 200px;
@@ -28,3 +26,14 @@ p{
 p.jornada{
     font-size: medium;
 }
+body{
+    background-color: navajowhite;
+text-align: center;
+}
+p.proximo{
+    text-decoration: underline;
+}
+p.partidos{
+    font-size: smaller;
+}
+
